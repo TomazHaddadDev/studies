@@ -1,3 +1,5 @@
+package ArraysAndStings;
+
 public class URLfy {
 
     public static void main(String[] args) {
@@ -5,7 +7,7 @@ public class URLfy {
     }
 
     /*
-    public static String URLfy(String str, int trueLength){
+    public static String ArraysAndStings.URLfy(String str, int trueLength){
         StringBuilder sb = new StringBuilder();
         int cont = 0;
         for(int i = 0; i < str.length(); i++){
